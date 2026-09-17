@@ -1,0 +1,15 @@
+{
+  "target_position": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "tolerance": 30.0,
+  "sum_distance": 173.30253976659472,
+  "mean_distance": 21.66281747082434,
+  "max_distance": 28.947006225585938,
+  "num_within_tolerance": 8,
+  "all_reached": true,
+  "steps_executed": 223,
+  "first_success_step": 223
+}
